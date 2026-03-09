@@ -1,0 +1,9 @@
+*Monthly AI News Summary
+
+Here are the summarized AI news articles in markdown format, sorted by date in **YYYY-MM-DD** format (IST):
+
+* **2025-09-30**: AI-driven innovations could increase Indian crop yields by up to 20%, transforming farm productivity nationwide through precision farming tools and digital market linkages. [Source](https://farmonaut.com/asia/agricultural-ai-news-top-7-agriculture-innovations-india)
+* **2025-09-29**: India's IT majors and Silicon Valley giants are rapidly reshaping workplaces, accelerating job cuts due to AI adoption. [Source](https://www.thehansindia.com/technology/tech-news/ai-wave-reshapes-workforce-tcs-accenture-and-global-tech-giants-slash-thousands-of-jobs-1010624)
+* **2025-09-29**: Tech Mahindra is helping Dixon Technologies adopt AI-powered Industry 4.0 automation across its manufacturing plants and R&D centers in India using Nvidia's Blackwell-chip based AI infrastructure. [Source](https://www.rcrwireless.com/20250929/fundamentals/ai-sharp-end-enterprise)
+* **2025-09-17**: The Indian Army has patented an AI-based "Automatic Target Classifying System" to boost battlefield awareness, using sensors and algorithms to identify targets. [Source](https://thedefensepost.com/2025/09/17/ai-india-target-identifier/)
+* **2025-09-14**: AICTE chairman Prof TG Sitharam stated that AI will transform India's workforce and tech landscape, advancing technology and reshaping the country's technical workforce. [Source](https://www.hindustantimes.com/cities/others/iiita-20th-convocation-ai-to-transform-india-s-workforce-tech-landscape-says-aicte-chairman-101757791585328.html)
